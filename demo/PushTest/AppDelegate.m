@@ -17,7 +17,7 @@
 #import <AdSupport/AdSupport.h>
 @implementation AppDelegate {
   RootViewController *rootViewController;
-    UIView *view;
+   
 }
 
 - (BOOL)application:(UIApplication *)application
